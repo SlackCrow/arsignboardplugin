@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/res/values-small-v4/values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

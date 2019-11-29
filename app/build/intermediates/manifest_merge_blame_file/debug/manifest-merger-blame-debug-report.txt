@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.buffalo.cse622.plugins"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14
+15    <application
+15-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:4:5-10:43
+16        android:allowBackup="true"
+16-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:5:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:6:9-43
+20        android:label="@string/app_name"
+20-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:7:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:8:9-54
+22        android:supportsRtl="true"
+22-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:9:9-35
+23        android:theme="@style/AppTheme" > <!-- This activity is critical for installing ARCore when it is not already present. -->
+23-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:10:9-40
+24        <activity
+24-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:33:9-39:80
+25            android:name="com.google.ar.core.InstallActivity"
+25-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:34:13-62
+26            android:configChanges="keyboardHidden|orientation|screenSize"
+26-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:35:13-74
+27            android:excludeFromRecents="true"
+27-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:36:13-46
+28            android:exported="false"
+28-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:37:13-37
+29            android:launchMode="singleTop"
+29-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:38:13-43
+30            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+30-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:39:13-77
+31        <meta-data
+31-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:41:9-43:41
+32            android:name="com.google.ar.core.min_apk_version"
+32-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:42:13-62
+33            android:value="180815000" />
+33-->[com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:43:13-38
+34    </application>
+35
+36</manifest>
