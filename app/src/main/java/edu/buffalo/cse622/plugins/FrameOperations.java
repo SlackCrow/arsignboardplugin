@@ -33,11 +33,12 @@ public class FrameOperations {
     Resources _resources;
     ViewRenderable _textRenderable;
     ArrayList<String> _textToPrint;
+    HashSet<AnchorNode> _pluginObjects;
     int _layoutId;
 
-    public FrameOperations(Resources dynamicResources, ArFragment fragment, HashSet<Object> input) {
+    public FrameOperations(Resources dynamicResources, ArFragment fragment, HashSet<AnchorNode> pluginObjects) {
         _textToPrint = new ArrayList<String>();
-
+        _pluginObjects = pluginObjects;
         _context = fragment.getContext();
         _fragment = fragment;
         _resources = dynamicResources;
@@ -52,7 +53,7 @@ public class FrameOperations {
     }
 
 
-    private AnchorNode planeTap(HitResult hitResult) {
+    private void planeTap(HitResult hitResult) {
 
         AlertDialog.Builder builder = new AlertDialog.Builder(_context);
         builder.setTitle("Text to Print");
@@ -69,7 +70,6 @@ public class FrameOperations {
                                 (renderable) -> {
                                     _textRenderable = renderable;
                                 });
-                //What ever you want to do with the value
 
                 _textToPrint.add(textInput.getText().toString());
                 tv.setText(_textToPrint.remove(_textToPrint.size()-1));
@@ -82,13 +82,12 @@ public class FrameOperations {
                 transNode.setParent(anchorNode);
                 transNode.setRenderable(_textRenderable);
                 transNode.select();
+                _pluginObjects.add(anchorNode);
             }
         });
 
         builder.setView(textInput);
         builder.show();
-
-        return null;
     }
 
 }
