@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
+import android.graphics.Color;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.ar.core.Anchor;
@@ -32,12 +33,10 @@ public class FrameOperations {
     ArFragment _fragment;
     Resources _resources;
     ViewRenderable _textRenderable;
-    ArrayList<String> _textToPrint;
     HashSet<AnchorNode> _pluginObjects;
     int _layoutId;
 
     public FrameOperations(Resources dynamicResources, ArFragment fragment, HashSet<AnchorNode> pluginObjects) {
-        _textToPrint = new ArrayList<String>();
         _pluginObjects = pluginObjects;
         _context = fragment.getContext();
         _fragment = fragment;
@@ -60,6 +59,7 @@ public class FrameOperations {
         EditText textInput = new EditText(_context);
         TextView tv = new TextView(_context);
         tv.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+        tv.setBackgroundColor(Color.parseColor("#ffb5d6e1"));
         builder.setPositiveButton("Enter", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int whichButton) {
 
@@ -69,20 +69,19 @@ public class FrameOperations {
                         .thenAccept(
                                 (renderable) -> {
                                     _textRenderable = renderable;
+                                    tv.setText(textInput.getText().toString());
+
+                                    Anchor anchor = hitResult.createAnchor();
+                                    AnchorNode anchorNode = new AnchorNode(anchor);
+
+                                    TransformableNode transNode = new TransformableNode(_fragment.getTransformationSystem());
+                                    transNode.setParent(anchorNode);
+                                    transNode.setRenderable(_textRenderable);
+                                    transNode.select();
+                                    _pluginObjects.add(anchorNode);
+                                    anchorNode.setParent(_fragment.getArSceneView().getScene());
                                 });
 
-                _textToPrint.add(textInput.getText().toString());
-                tv.setText(_textToPrint.remove(_textToPrint.size()-1));
-
-                Anchor anchor = hitResult.createAnchor();
-                AnchorNode anchorNode = new AnchorNode(anchor);
-                anchorNode.setParent(_fragment.getArSceneView().getScene());
-
-                TransformableNode transNode = new TransformableNode(_fragment.getTransformationSystem());
-                transNode.setParent(anchorNode);
-                transNode.setRenderable(_textRenderable);
-                transNode.select();
-                _pluginObjects.add(anchorNode);
             }
         });
 
