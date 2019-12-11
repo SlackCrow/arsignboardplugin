@@ -3,31 +3,31 @@
 3    package="edu.buffalo.cse622.plugins.test" >
 4
 5    <uses-sdk
-5-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:5:5-74
+5-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:5:5-74
 6        android:minSdkVersion="28"
-6-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:5:15-41
+6-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:5:42-71
+7-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:11:5-15:76
+9-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:11:5-15:76
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:11:22-76
+10-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:14:22-52
+11-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:13:22-53
+12-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:13:22-53
 13        android:label="Tests for edu.buffalo.cse622.plugins"
-13-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:15:22-74
+13-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:15:22-74
 14        android:targetPackage="edu.buffalo.cse622.plugins" />
-14-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:12:22-72
+14-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:12:22-72
 15
 16    <application android:debuggable="true" >
-16-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:7:5-9:19
-16-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:7:18-43
+16-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:7:5-9:19
+16-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:7:18-43
 17        <uses-library android:name="android.test.runner" />
-17-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:8:9-60
-17-->/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger3091164766348499451.xml:8:23-57
+17-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:8:9-60
+17-->/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger5989590725891809347.xml:8:23-57
 18    </application>
 19
 20</manifest>

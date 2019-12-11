@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "outputFile": "/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/res/values-en-rSG/values.xml",
+                    "source": "/Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",

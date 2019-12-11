@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+            "outputFile": "/Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
-                    "source": "/Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/values-bn/values-bn.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "35",
-                        "startColumns": "4",
-                        "startOffsets": "3335",
-                        "endColumns": "100",
-                        "endOffsets": "3431"
-                    }
-                },
-                {
-                    "source": "/Users/sunrise/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/values-bn/values-bn.xml",
+                    "source": "/Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/values-bn/values-bn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/res/values-bn/values.xml",
+                    "source": "/Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/res/values-bn/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,160,216,330,450",
                         "endColumns": "54,55,113,119,68",
                         "endOffsets": "155,211,325,445,514"
+                    }
+                },
+                {
+                    "source": "/Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "35",
+                        "startColumns": "4",
+                        "startOffsets": "3335",
+                        "endColumns": "100",
+                        "endOffsets": "3431"
                     }
                 }
             ]

@@ -1,188 +1,188 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c6c6ca619ee0d5eba6b5b413d99c4de2/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7efed8c3efdbff43aa1203bf9318b6ae/jetified-rendering-1.5.1/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/07cfb3286b92be95328c5d5e27663f58/jetified-filament-android-1.5.1/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:17:1-46:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0b568954da7ff24c98e8d58a7458a2b6/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/6a029eeb852a1cd224f416021845c590/jetified-rendering-1.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37629db2a0d3051b3c573da116935e98/jetified-filament-android-1.5.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:17:1-46:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
 	package
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:4:5-10:43
-MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:30:5-44:19
-MERGED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:30:5-44:19
+ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:4:5-10:43
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar.sceneform:sceneform-base:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/83053bf4548f31a7dcfebb74a01a904b/sceneform-base-1.5.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:30:5-44:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:7:9-41
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:7:9-41
 	android:roundIcon
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:8:9-54
 	android:icon
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:6:9-43
 	android:allowBackup
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:5:9-35
 	android:theme
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:10:9-40
 uses-sdk
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c6c6ca619ee0d5eba6b5b413d99c4de2/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c6c6ca619ee0d5eba6b5b413d99c4de2/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7efed8c3efdbff43aa1203bf9318b6ae/jetified-rendering-1.5.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/7efed8c3efdbff43aa1203bf9318b6ae/jetified-rendering-1.5.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/07cfb3286b92be95328c5d5e27663f58/jetified-filament-android-1.5.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/07cfb3286b92be95328c5d5e27663f58/jetified-filament-android-1.5.1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:26:5-28:41
-MERGED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:26:5-28:41
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-beta02] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/23f21ab06caea01df16283858bce396f/material-1.1.0-beta02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0b568954da7ff24c98e8d58a7458a2b6/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0b568954da7ff24c98e8d58a7458a2b6/jetified-sceneform-ux-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/644ed06711c3fc464015bad2052ccfeb/coordinatorlayout-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8d8ddb8800374545c224b77b34d0f1a2/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e5ba1ede86dc040ac690f8fea50e0f/viewpager2-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-rc01] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bd2070e6c9e13aec9318f2b260d53b0b/recyclerview-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/420f294924962582b4c42c622af43461/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/66e997bde0b6ece28f7fd36f5f4a1584/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/8787729f29cf7add1bc29c81caccddfd/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/dba75429b68a39797b66c08853b2a9a2/core-1.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/6a029eeb852a1cd224f416021845c590/jetified-rendering-1.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/6a029eeb852a1cd224f416021845c590/jetified-rendering-1.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37629db2a0d3051b3c573da116935e98/jetified-filament-android-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.5.1] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/37629db2a0d3051b3c573da116935e98/jetified-filament-android-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:26:5-28:41
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+IMPLIED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
+IMPLIED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/sunrise/Downloads/fuzzy-octo-argumented-reality-parth_apk_ar_image/APK_AR_Image_1/signplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/madhusudansaha/MS/Fall_2019/622-Advanced_Computer_Systems/Project/SignBoardPlugin/arsignboardplugin/app/src/main/AndroidManifest.xml:1:1-11:12 reason: com.google.ar.sceneform requested WRITE_EXTERNAL_STORAGE
 activity#com.google.ar.core.InstallActivity
-ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:33:9-39:80
+ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:33:9-39:80
 	android:excludeFromRecents
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:36:13-46
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:36:13-46
 	android:launchMode
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:38:13-43
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:38:13-43
 	android:exported
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:37:13-37
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:37:13-37
 	android:configChanges
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:35:13-74
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:35:13-74
 	android:theme
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:39:13-77
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:39:13-77
 	android:name
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:34:13-62
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:34:13-62
 meta-data#com.google.ar.core.min_apk_version
-ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:41:9-43:41
+ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:41:9-43:41
 	android:value
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:43:13-38
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:43:13-38
 	android:name
-		ADDED from [com.google.ar:core:1.5.0] /Users/sunrise/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:42:13-62
+		ADDED from [com.google.ar:core:1.5.0] /Users/madhusudansaha/.gradle/caches/transforms-2/files-2.1/e8171cc82f2f8074fb4fb02fa5d88aa0/core-1.5.0/AndroidManifest.xml:42:13-62
